@@ -1,0 +1,32 @@
+body{
+  color:white;
+  background-color:black;
+  margin-left: auto;
+  margin-right: auto;
+}
+nav{
+  border_botom: 7px solid white;
+  width: auto;
+}
+main div{
+ display: flex;
+  justify-content: center;
+}
+main div p{
+  width: 400px
+  background-color:white;
+  color: black;
+}
+.contaier{
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.elem{
+  width: 350px;
+  margin: 150px
+  padding-top: 50px;
+}
+footer{
+  border-top:7 px solid white;
+}
